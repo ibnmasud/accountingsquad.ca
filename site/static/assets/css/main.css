@@ -2600,8 +2600,8 @@
 /* One */
 
 	#one:before {
-		background-image: url("../../img/suit.jpg");
-		background-position: top right;
+		background-image: url("../../img/bookkeeping.jpg");
+		background-position: center right;
 		background-repeat: no-repeat;
 		background-size: cover;
 		content: '';
